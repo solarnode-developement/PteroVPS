@@ -7,7 +7,7 @@
     "exported_at": "2024-10-03T09:26:01+00:00",
     "name": "PteroVPS",
     "author": "hello@solarnode.xyz",
-    "description": "Read: https:\/\/github.com\/ysdragon\/Pterodactyl-VPS-Egg",
+    "description": "Visit our github for more information: solarnode-development",
     "features": null,
     "docker_images": {
         "quay.io\/ydrag0n\/pterodactyl-vps-egg": "quay.io\/ydrag0n\/pterodactyl-vps-egg"
