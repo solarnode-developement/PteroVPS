@@ -18,7 +18,7 @@ If your not interested in using this egg you can always purchase one of our preb
 and yeah that's basically it for now
 
 ## Installation & Usage
-> [!Information]  
+> [!NOTE]  
 > In order to use this egg, you need Pterodactyl Panel running on one of your servers.
 > If not installed - I recommend you do so if you plan to utilise this egg (pterodactyl.io)
 
