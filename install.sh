@@ -258,7 +258,7 @@ if [ ! -e "$ROOTFS_DIR/.installed" ]; then
     # Create "$ROOTFS_DIR/usr/local/bin" dir
     mkdir -p "$ROOTFS_DIR/usr/local/bin"
     # Download static proot.
-    curl -Ls "https://github.com/ysdragon/proot-static/releases/download/v${PROOT_VERSION}/proot-${ARCH}-static" -o "$ROOTFS_DIR/usr/local/bin/proot"
+    curl -Ls "https://github.com/solarnode-development/proot-static/releases/download/v${PROOT_VERSION}/proot-${ARCH}-static" -o "$ROOTFS_DIR/usr/local/bin/proot"
     # Make PRoot executable.
     chmod 755 "$ROOTFS_DIR/usr/local/bin/proot"
 fi
